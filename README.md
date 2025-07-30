@@ -56,13 +56,13 @@ If you find bugs or need help:
 
 ## 🧭 Roadmap
 
-    - ✅ Initialize the project !!!
-    - 🔜 Create the main features
+- ✅ Initialize the project !!!
+- 🔜 Create the main features
 
 ## 👨‍💻 Authors & Acknowledgments
 
-    - Florent Quintin alias @Boloblux – Project Owner, Developer
-    - François Mutti alias @Vharaphis - Developer
+- Florent Quintin alias @Boloblux – Project Owner, Developer
+- François Mutti alias @Vharaphis - Developer
 
 ## 📍 Project Status
 
